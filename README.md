@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**brenogrativol/brenogrativol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 😁⚡
+<br>
+Meu nome é Breno Grativol, sou Programador Front-End, me especificando cada vez mais para me tornar um Dev Full-Stack.😎
+<br>
+<br>
+Tenho uma paixão pela tecnologia e todos os benefícios que ela nos traz! Esse espaço é reservado para alguns projetos e criatividades.
+<br>
+<br>
+  - 💭Meu Linkedin, caso queira perguntar algo!
+  <br>
+  <a href="https://www.linkedin.com/in/breno-de-almeida-grativol-7ab26716a/" target="_brank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a>
+  <br>
+  - 📬Meu instagram! 
+  <br>
+  <a href="https://www.instagram.com/brenogrativol/?hl=pt-br" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"><a>
+  <br>
+  <br>
+  
