@@ -17,4 +17,5 @@ Tenho uma paixão pela tecnologia e todos os benefícios que ela nos traz! Esse 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"><a>
   <br>
   <br>
-  
+  <h3>Language Tools<h3>
+    <img src="https://p.kindpng.com/picc/s/171-1718053_html-css-javascript-png-transparent-png.png" width=150px height=70px>
