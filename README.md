@@ -8,7 +8,7 @@ Tenho uma paixão pela tecnologia e todos os benefícios que ela nos traz! Esse 
 <br>
   - 💭Meu Linkedin, caso queira perguntar algo!
   <br>
-  <a href="https://www.linkedin.com/in/breno-de-almeida-grativol-7ab26716a/" target="_brank">
+  <a href="https://www.linkedin.com/in/breno-de-almeida-grativol-7ab26716a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a>
   <br>
   - 📬Meu instagram! 
